@@ -14,3 +14,11 @@
 | Entering the dream | 250 000 | 108 |
 | Limbo | 390 000 | 164 |
 | Nightmare | 287 500 | 123 |
+
+| **Then Calculations** |
+| :-------------------: |
+| 20000+(x-16)*2500 |
+| **Explanation** |
+| When reaching 5x the number of points is 20000 |
+| (x-16) is how many obstacles need to be passed for 5x |
+| *2500 is how many points you get for 5x |
