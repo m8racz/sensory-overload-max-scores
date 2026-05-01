@@ -1,7 +1,6 @@
 |sensory overload max scores|				
 | --- |	
 |Tornado|
-| --- |
 |Gathering winds|		|Max score 235 000|	|Obstacles 102|	
 Cold front		Max score 195 000	Obstacles 86	
 Aurora		Max score 170 000	Obstacles 76	
