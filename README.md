@@ -3,7 +3,7 @@
 |Tornado|			
 |Gathering winds|		|Max score 235 000|	|Obstacles 102|	
 Cold front		Max score 195 000	Obstacles 86	
-Aurora		Max score 170 000	Obstacles 76	
+*Aurora*		Max score 170 000	Obstacles 76	
 Tropical storm		Max score 210 000	Obstacles 92	
 Gale		Max score 247 500	Obstacles 107	
 Squall		Max score 245 000	Obstacles 106	
